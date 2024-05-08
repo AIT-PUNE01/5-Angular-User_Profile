@@ -42,3 +42,7 @@ JavaScript:
 TypeScript:
 1. TypeScript is a statically typed superset of JavaScript, allowing for the declaration of variable types at compile-time.
 2. enhanced tooling support, including code editors with IntelliSense, type checking, error detection.
+
+
+Angular definition: 
+Angular is a popular open-source web application framework developed and maintained by Google. It is written in TypeScript and is widely used for building dynamic, single-page web applications (SPAs), Angular provides a comprehensive set of tools and features for developing modern, client-side applications
