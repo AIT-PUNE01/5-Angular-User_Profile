@@ -3,6 +3,8 @@ change directory
 
 ```cd "paste path"```
 
+```npm init -y```
+
 ```npm install```
 
 ```npm install -g @angular/cli```
