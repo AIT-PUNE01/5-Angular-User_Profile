@@ -11,6 +11,22 @@ change directory
 
 ```ng serve```
 
+
+
+if error:
+open powershell run as administrator
+type:
+
+```set-executionpolicy remotesigned```
+
+```A```
+
+go to terminal :
+
+```ng help```
+
+```ng serve```
+
 now click on the localhost4200
 
 theory of terminal commands
