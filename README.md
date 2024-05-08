@@ -1,7 +1,7 @@
-Terminal commands
+Terminal commands:
 change directory 
 
-```cd paste path```
+```cd "paste path"```
 
 ```npm install```
 
