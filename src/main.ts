@@ -10,3 +10,8 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
+
+
+
+//Angular is a popular open-source web application framework developed and maintained by Google. It is written in TypeScript and is widely used for building dynamic, single-page web applications
+//Angular provides a comprehensive set of tools and features for developing modern, client-side applications
